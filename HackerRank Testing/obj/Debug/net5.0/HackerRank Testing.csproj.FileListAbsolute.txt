@@ -1,0 +1,16 @@
+C:\Users\zjs35\source\repos\HackerRank Testing\bin\Debug\net5.0\HackerRank Testing.exe
+C:\Users\zjs35\source\repos\HackerRank Testing\bin\Debug\net5.0\HackerRank Testing.deps.json
+C:\Users\zjs35\source\repos\HackerRank Testing\bin\Debug\net5.0\HackerRank Testing.runtimeconfig.json
+C:\Users\zjs35\source\repos\HackerRank Testing\bin\Debug\net5.0\HackerRank Testing.runtimeconfig.dev.json
+C:\Users\zjs35\source\repos\HackerRank Testing\bin\Debug\net5.0\HackerRank Testing.dll
+C:\Users\zjs35\source\repos\HackerRank Testing\bin\Debug\net5.0\ref\HackerRank Testing.dll
+C:\Users\zjs35\source\repos\HackerRank Testing\bin\Debug\net5.0\HackerRank Testing.pdb
+C:\Users\zjs35\source\repos\HackerRank Testing\obj\Debug\net5.0\HackerRank Testing.csproj.AssemblyReference.cache
+C:\Users\zjs35\source\repos\HackerRank Testing\obj\Debug\net5.0\HackerRank Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zjs35\source\repos\HackerRank Testing\obj\Debug\net5.0\HackerRank Testing.AssemblyInfoInputs.cache
+C:\Users\zjs35\source\repos\HackerRank Testing\obj\Debug\net5.0\HackerRank Testing.AssemblyInfo.cs
+C:\Users\zjs35\source\repos\HackerRank Testing\obj\Debug\net5.0\HackerRank Testing.csproj.CoreCompileInputs.cache
+C:\Users\zjs35\source\repos\HackerRank Testing\obj\Debug\net5.0\HackerRank Testing.dll
+C:\Users\zjs35\source\repos\HackerRank Testing\obj\Debug\net5.0\ref\HackerRank Testing.dll
+C:\Users\zjs35\source\repos\HackerRank Testing\obj\Debug\net5.0\HackerRank Testing.pdb
+C:\Users\zjs35\source\repos\HackerRank Testing\obj\Debug\net5.0\HackerRank Testing.genruntimeconfig.cache
